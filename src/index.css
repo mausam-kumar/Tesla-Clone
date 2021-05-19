@@ -1,14 +1,18 @@
 *{
+  overflow-x: hidden;
   box-sizing: border-box;
   font-family: "Rubik" , "Fira Code";
   color: #393c41;
   margin: 0;
   padding: 0;
+  
 }
 
 body{
   width:100%;
-
+}
+a{
+  text-decoration: none;
 }
 
 @keyframes animateDown {
